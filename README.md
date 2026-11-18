@@ -33,6 +33,12 @@ A simple product listing application developed using Flutter and Dart.
 
 [View Project](https://github.com/0252aiting-sudo/flutter-product-listing)
 
+### 4. MyStar Café – Café Ordering System
+
+A Java console application for menu selection, order calculation and receipt generation.
+
+[View Project](https://github.com/0252aiting-sudo/mystar-cafe)
+
 ## 📫 Connect With Me
 
 - GitHub: [@0252aiting-sudo](https://github.com/0252aiting-sudo)
